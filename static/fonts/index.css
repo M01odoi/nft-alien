@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bakbak One';
+    src: url('BakbakOne-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}

@@ -1,0 +1,30 @@
+@import "variables";
+@import '../../static/fonts/index.css';
+html {
+  font-size: 10px;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: $app-font-family-bakbak-one;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
+p {
+  font-family: $app-font-family-poppins;
+  text-transform: initial;
+}
+
+a {
+  text-decoration: none;
+  color: $col-link;
+}
